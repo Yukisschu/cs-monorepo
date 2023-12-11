@@ -1,7 +1,8 @@
 
-1. **Compile the Program:**
-   - In the terminal, use the following command to compile the *.c files:
+ # cs50 solutions
+ A part of my solutions to the problem sets and labs in the [CS50](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) courses offered by Harvard University. To try the code:
 
+1. **Compile the Program:**
      ```
      cc [FILENAME].c -o [FILENAME] cs50.c
      ```
@@ -25,4 +26,4 @@
 
 ### DISCLAIMER
 
-This repository is for documentation and discussion only. For cs50 students, please follow the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
+This repository is for documentation and discussion only. For cs50 students, I would be glad if these help inspire you a bit but make sure to follow the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
