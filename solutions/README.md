@@ -26,4 +26,4 @@
 
 ### DISCLAIMER
 
-This repository is for documentation and discussion only. For cs50 students, I would be glad if these help inspire you a bit but make sure to follow the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
+This repository is for documentation and discussion only. 
